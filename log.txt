@@ -1,0 +1,9 @@
+Bot Connected
+
+BUY ORDER SUCCESS
+Symbol: BTCUSDT
+
+SELL ORDER SUCCESS
+Symbol: BTCUSDT
+
+Profit Cycle Complete
