@@ -1,8 +1,8 @@
 from binance.client import Client
 import time
 
-api_key = "OumRneDo6NxC2Vd02hV4oMiXDdyitJLyhNuCVR7xdXlu6PtGPhGuV31ZLFRt92YP"
-api_secret = "BAcjjuqOngz4q65At9DNTBjo4Dq4he4hp5J0wMC7eyrubCHV8ijcbyChVy7fG1fp"
+api_key = "your_real_key"
+api_secret = "your_real_secret"
 
 client = Client(api_key, api_secret)
 client.API_URL = "https://testnet.binance.vision/api"
@@ -26,5 +26,6 @@ while True:
     )
 
     print("Cycle Complete")
+
 
     time.sleep(10)
